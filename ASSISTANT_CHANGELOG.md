@@ -104,7 +104,7 @@
 
 - Fixed exception handling for "/reset-nick".
 
-## [ 0.2.0 ] - 2024-03-27
+## [ 0.20.0 ] - 2024-03-27
 
 - Added "a/export-settings".
 - Added "a/import-settings".
